@@ -1,6 +1,6 @@
 # AI-Driven Dual-Module System for Coated-Fertilizer Nutrient Release & Crop Recommendations
 
-CSI3001 Data Science Programming · Amit Kumar (24MID0155), Mohammad Afaan Sherief (24MID0178), Bhumi Kumari (24MID0216)
+ Amit Kumar (24MID0155), Mohammad Afaan Sherief (24MID0178), Bhumi Kumari (24MID0216)
 
 **Module 1** predicts how fast a polymer-coated urea actually releases nitrogen under field weather and soil.
 **Module 2** uses that prediction, together with crop, growth stage, soil N-P-K and pH, to recommend the **fertilizer type, amount and timing**.
