@@ -1,0 +1,13 @@
+ipykernel==6.31.0
+joblib==1.5.3
+matplotlib==3.9.4
+nbconvert==7.17.2
+nbformat==5.10.4
+numpy==2.0.2
+pandas==2.3.3
+pytest==8.4.2
+scikit-learn==1.6.1
+scipy==1.13.1
+xgboost==2.1.4
+altair==5.5.0
+streamlit==1.50.0
